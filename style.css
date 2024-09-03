@@ -1,0 +1,214 @@
+.bandeira{
+    width: 600px;
+    height: 420px;
+    border: 1px solid black;
+    display: block;
+    margin: 10px; 
+    float: left;
+}
+.col3{
+   width: 200px;   
+   height: 420px;
+   display: block;
+   float: left;
+}
+
+.bola{
+    width: 250px;
+    height: 250px;
+    display: block;
+    float: left;
+    border-radius: 100%;
+    margin-left: 175px;
+    margin-top: 85px;
+}
+ .lisHor{
+    width: 600px;
+    height: 100px;
+    display: block;
+    position: relative;
+    top: 150px;
+    
+ }
+ .lisVert{
+    width: 100px;
+    height: 420px;
+    position: relative;
+    top: -100px;
+    left: 150px;
+ }
+.corAzulForte{
+    background-color: #0b0b4d;
+}
+.corBranco{
+    background-color: white;
+}
+.corVermelho{
+    background-color: red;
+}
+
+.lin3{
+    width: 600px;   
+    height: 140px;
+    display: block;
+    float: left;
+}
+.corPreto{
+    background-color: black;
+}
+.corAmarelo{
+    background-color: yellow;
+}
+
+.corVermelho{
+    background-color: red;
+}
+.corBranco{
+    background-color: white;
+}
+.corVermelho{
+    background-color: red;
+}
+
+.corVermelho{
+    background-color: red;
+}
+.corAzulforte{
+    background-color: #0b0b4d;
+}
+.corAmarelo{
+    background-color: yellow;
+}
+.corLaranja{
+    background-color: rgb(199, 68, 20);
+}
+.corBranco{
+    background-color: white;
+}
+.corVerdeclaro{
+    background-color: rgb(36, 180, 36);
+}
+.corAmareloburro{
+    background-color: rgb(225, 200, 58);
+}
+.corAzulClaro{
+    background-color: rgb(37, 37, 112);
+}
+
+.bolacorVermelhoEscuro{
+    width: 250px;
+    height: 250px;
+    display: block;
+    float: left;
+    border-radius: 100%;
+    margin-right: 170px;
+    margin-top: 85px;
+    position: relative;
+    left:75px;
+}
+.corVerdeEscuro{
+    background-color: rgb(17, 86, 17);
+}
+.bolacorVermelhoEscuro{
+    background-color: rgb(192, 40, 40);
+}
+.corAzulClaro{
+    background-color: rgb(62, 158, 175);
+}
+.corPreto{
+    background-color: rgb(0, 0, 0);
+}
+.corBranco{
+    background-color: white;
+}
+
+.linhagrossa{
+    width: 600px;   
+    height: 210px;
+    display: block;
+    float: left;
+}
+.corAmareloClaro{
+    background-color: rgb(231, 231, 38);
+}
+img{
+    width: 100px;
+    height: 100px;
+    position: relative;
+    top: -260px;
+    left: 250px;
+}
+ .argentina{
+        width: 600px;
+        height: 140px;
+        display: block;
+        float: left;
+ }
+ .corBranca{
+   background-color:white
+ }
+ .corVerde{
+    background-color: rgb(10, 113, 44);
+ }
+ .corVermelho{
+    background-color: rgb(227, 33, 33);
+ }
+ .bulgaria{
+    width: 600px;
+        height: 140px;
+        display: block;
+        float: left;
+ }
+ .birmania{
+    width: 600px;
+    height: 140px;
+    display: block;
+    float: left;
+ }
+ .coramarela{
+    background-color: rgb(223, 223, 28);
+ }
+ .corverde{
+    background-color: rgb(89, 197, 89)
+
+ }
+.corvermelha{
+    background-color: rgb(223, 42, 42);
+}
+.corverdeetiopia{
+    background-color: rgb(41, 185, 41)
+}
+.coramarelaetiopia{
+    background-color: rgb(233, 233, 48);
+}
+.corvermelhaetiopia{
+    background-color: rgb(213, 39, 39);
+}
+.gabao {
+    width: 600px;
+    height: 140px;
+    display: block;
+    float: left;
+}
+.corazulgabao{
+    background-color: #3434a9;
+}
+.corverdegabao{
+    background-color: green
+}
+.coramarelogabao{
+    background-color: yellow;
+}
+.corvermelhoiemen{
+    background-color: red
+}
+.corpretoiemen{
+    background-color: black
+}
+.corbrancoiemen{
+    background-color: white
+}
+  
+
+
+
